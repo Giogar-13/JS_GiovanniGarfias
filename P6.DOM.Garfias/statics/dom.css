@@ -1,0 +1,44 @@
+#content
+{
+  width: auto;
+  height:500px;
+  background-color: #C7C3C7;
+  border: 6px dashed #827F82;
+  position: relative;
+}
+
+#enc2
+{
+  position: absolute;
+  top: 15%;
+}
+
+#enc1
+{
+  font-size: 30px;
+  font-weight: bold;
+  position: absolute;
+  top: 5%;
+}
+
+#enc3
+{
+  font-size: 25px;
+  font-style: italic;
+  position: absolute;
+  top: 30%;
+
+}
+
+#enc4
+{
+  font-size: 25px;
+  color: red;
+  position: absolute;
+  top: 35%;
+}
+
+h3{
+  position: absolute;
+  top: 45%;
+}
