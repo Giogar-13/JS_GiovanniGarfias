@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+}
+.naranja{
+  width: 40px;
+  height: 40px;
+  background-color: orange;
+}
+
+.azul{
+  width: 40px;
+  height: 40px;
+  background-color: blue;
+}
