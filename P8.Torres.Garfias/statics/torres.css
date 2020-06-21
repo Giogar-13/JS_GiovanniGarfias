@@ -1,0 +1,92 @@
+body
+{
+  position: relative;
+}
+
+.content{
+  width: auto;
+  height: 500px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content3
+{
+  width: 33%;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+.tubo{
+  background-color: brown;
+  height: 200px;
+  width: 30px;
+  margin: auto;
+  position: absolute;
+  z-index: 0;
+  left: 45%;
+  top: -35%;
+}
+
+.vacio
+{
+  width: 80px;
+  height: 30px;
+  background-color: white;
+}
+
+.disco1{
+  width: 80px;
+  height: 30px;
+  background-color: black;
+  margin: auto;
+  position: relative;
+}
+.disco2{
+  width: 100px;
+  height: 30px;
+  background-color: red;
+  margin: auto;
+  position: relative;
+
+
+}
+.disco3{
+  width: 120px;
+  height: 30px;
+  background-color: green;
+  margin: auto;
+  position: relative;
+}
+.disco4{
+  width: 140px;
+  height: 30px;
+  background-color: purple;
+  margin: auto;
+  position: relative;
+
+}
+.disco5{
+  width: 160px;
+  height: 30px;
+  background-color: yellow;
+  margin: auto;
+  position: relative;
+
+}
+
+.blanco
+{
+  width: 160px;
+  height: 30px;
+  background-color: white;
+  margin: auto;
+  position: relative;
+}
